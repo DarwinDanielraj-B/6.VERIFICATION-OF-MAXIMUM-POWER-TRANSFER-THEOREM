@@ -25,23 +25,15 @@ In a simpler form the circuit may contain a voltage source VS having internal re
 The maximum power transfer theorem tells us that the load should be equal in magnitude to the source resistance for maximum power to be absorbed by the load.
 
 **CIRCUIT DIAGRAM: FOR MAXIMUM POWER TRANSFER THEOREM:**
-<img width="764" height="382" alt="image" src="https://github.com/user-attachments/assets/237abe2c-58ca-4b7a-98a2-5fb58c557336" />
-
-
-**MODEL GRAPH:**
-
-Resistance (RL) in ohm
-<img width="723" height="705" alt="image" src="https://github.com/user-attachments/assets/affca4a1-0729-4a2c-a295-4fb934280ebd" />
-
+**GRAPH:**
+<img width="817" height="1113" alt="WhatsApp Image 2026-05-30 at 8 36 29 AM" src="https://github.com/user-attachments/assets/192ad810-e75f-4cf1-8263-11f39a263741" />
 
 **TABULATION:**
-
-<img width="742" height="611" alt="image" src="https://github.com/user-attachments/assets/1abef40e-b0ac-43a7-ae06-09e9e4d4e048" />
-
+ <img width="1076" height="1600" alt="WhatsApp Image 2026-05-24 at 2 30 27 PM" src="https://github.com/user-attachments/assets/bb08a2e4-b953-4dd8-af38-189278f18bc1" />
+	
 
 **MODEL CALCULATION:**
-
-<img width="713" height="690" alt="image" src="https://github.com/user-attachments/assets/4950efff-7164-427a-b344-1e966f37cba1" />
+<img width="1600" height="1423" alt="WhatsApp Image 2026-05-24 at 2 30 27 PM (1)" src="https://github.com/user-attachments/assets/5a7e02f3-b058-448a-a180-ae1f7871a0df" />
 
 
 **PROCEDURE:**
@@ -54,7 +46,9 @@ Resistance (RL) in ohm
 
 4.	Verify the measured values of RL at maximum power transfer as same as calculated and found graphically.
 
-**RESULT:**
+**RESULT
+<img width="1157" height="673" alt="WhatsApp Image 2026-05-30 at 8 36 12 AM" src="https://github.com/user-attachments/assets/6550e000-8aa1-4900-bde1-01d939958f62" />
+
 
 Thus maximum power transfer theorem is verified practically and theoretically
 
